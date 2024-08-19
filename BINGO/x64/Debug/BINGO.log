@@ -1,0 +1,6 @@
+﻿  bingo driver.cpp
+M:\PROJECTS\BINGO\bingo driver.cpp(202,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+M:\PROJECTS\BINGO\bingo driver.cpp(562,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+M:\PROJECTS\BINGO\bingo driver.cpp(147): warning C4715: 'signup': not all control paths return a value
+M:\PROJECTS\BINGO\bingo driver.cpp(198): warning C4715: 'login': not all control paths return a value
+  BINGO.vcxproj -> M:\PROJECTS\BINGO\x64\Debug\BINGO.exe
